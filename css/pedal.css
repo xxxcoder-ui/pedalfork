@@ -1,6 +1,6 @@
 /* general (top to bottom) */
 .pedal {
-  background: linear-gradient(#757575, #bdbdbd);
+  background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
   border-radius: 10px;
   display: inline-block;
   height: 60vh;
