@@ -1,6 +1,6 @@
 /* general */
 body {
-  background: #37476D;
+  background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
   color: #efefef;
   cursor: default;
   font-family: "Source Sans Pro", sans-serif;
